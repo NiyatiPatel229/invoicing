@@ -1,0 +1,5 @@
+{
+  "name": "ProInvoice Gen",
+  "description": "A high-performance, professional invoice generator with automated sequential numbering, Firestore integration, and a print-optimized minimalistic template.",
+  "requestFramePermissions": []
+}
